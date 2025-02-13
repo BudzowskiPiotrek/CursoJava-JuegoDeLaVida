@@ -1,3 +1,4 @@
+# CursoJava - JuegoDeLaVida
  Juego de la Vida de Conway—Edición Simplificada.
  
  El juego de la vida es un autómata celular ideado por el matemático John Horton Conway en 1970. Aunque
